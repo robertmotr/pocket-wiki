@@ -1,0 +1,11 @@
+commands:
+  wiki:
+    description: This checks the item you're holding and gets the wiki page from the Minecraft unofficial wiki.
+    usage: /wiki
+    permission: pocketwiki.search
+
+name: pocketwiki
+version: 1.0.0
+author: damnbruuh
+main: com.robert.wikiplugin.Main
+api-version: 1.16
